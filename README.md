@@ -2,6 +2,8 @@
 
 Provider-hosted SharePoint add-in template using [Office UI Fabric](https://github.com/OfficeDev/Office-UI-Fabric) styles. You can use this sample template as a starter project to build your SharePoint add-ins with Fabric styles. The project uses both Office UI Fabric styles and components, namely the NavBar and Button components.
 
+![SharePoint add-in using Office UI Fabric](http://chakkaradeep.com/wp-content/uploads/2015/09/fabric-spaddin.png)
+
 ## How to Run this Sample
 
 To run this sample, you need:
