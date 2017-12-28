@@ -27,3 +27,6 @@ From your Git Shell or command line:
 ## Step 3: Build and Debug your web application
 
 Now you are ready for a test run. Hit F5 to test your add-in.
+
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
