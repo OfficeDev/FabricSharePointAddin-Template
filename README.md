@@ -1,15 +1,18 @@
 ---
 topic: sample
 products:
-- Office 365
-- SharePoint
+- office-365
+- office-sp
 languages:
-- CSS
+- html
+- javascript
 extensions:
   contentType: samples
   technologies:
   - Add-ins
   - Office UI Fabric
+  platforms:
+  - CSS
   createdDate: 9/2/2015 3:31:56 PM
 ---
 # Fabric SharePoint Add-in Template
